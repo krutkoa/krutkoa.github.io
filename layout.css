@@ -43,7 +43,7 @@ div.wrapper{display:block; width:100%; margin:0; padding:0; text-align:left;}
 .row1 a{color:#ffffff; background-color:#ffb900;}
 .row2{color:#000000; background-color:#ffffff;}
 .row2 a{color:#FF9900; background-color:#transparent}
-.row3, .row3 a{color:#919191; background-color:#232323;}
+.row3, .row3 a{color:#ffffff; background-color:#000000;}
 
 /*----------------------------------------------Generalise-------------------------------------*/
 
