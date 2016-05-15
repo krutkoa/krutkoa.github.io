@@ -87,7 +87,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 
 #header form{display:block; width:290px; float:right; margin:20px 0; padding:0;}
 #header form input{display:block; float:left; width:200px; margin:0; padding:5px; color:#ffffff; background-color:#000000; border:1px solid #e61919;}
-#header form #sf_submit{display:block; float:right; width:70px; font-size:12px; font-weight:bold; text-transform:uppercase; color:#00cd66; background-color:#FF9900; border:none; cursor:pointer;}
+#header form #sf_submit{display:block; float:right; width:70px; font-size:12px; font-weight:bold; text-transform:uppercase; color:#e61919; background-color:#FF9900; border:none; cursor:pointer;}
 
 #header nav{display:block; width:60%; margin:0; padding:20px 0; color:#C0BAB6; background-color:transparent; clear:both;}
 #header nav ul{padding:0 20px;}
