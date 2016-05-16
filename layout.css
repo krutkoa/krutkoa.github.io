@@ -90,7 +90,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #header form #sf_submit{display:block; float:right; width:70px; font-size:12px; font-weight:bold; text-transform:uppercase; color:#ffffff; background-color:#ffb900; border:none; cursor:pointer;}
 
 #header nav{display:block; width:60%; margin:10; padding:0px 0; color:#ffffff; background-color:transparent; clear:both;}
-#header nav ul{padding:50px 50px; border: 100px;}
+#header nav ul{padding:0 0px; border-width:100px;}
 #header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
 #header nav li a{color:#ffb900; background-color:#232323; border-width:50px;}
