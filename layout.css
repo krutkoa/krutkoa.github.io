@@ -93,7 +93,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #header nav ul{padding:0 0px; border: 100px;}
 #header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
-#header nav li a{color:#ffb900; background-color:#232323;}
+#header nav li a{color:#ffb900; background-color:#232323; border-width:50;}
 #header nav li a:hover{color:#ffffff; background-color:#ffb900;}
 
 /*----------------------------------------------Content Area-------------------------------------*/
