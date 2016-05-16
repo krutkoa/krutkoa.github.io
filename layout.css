@@ -10,7 +10,7 @@ html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than 
 
 body{margin:10; padding:10; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#ffffff; background-color:#2870bd; }
 
-.clear:after{content:"."; display:block; height:10; clear:both; visibility:hidden; line-height:10;}
+.clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
 .clear{display:block; clear:both;}
 html[xmlns] .clear{display:block;}
 * html .clear{height:1%;}
@@ -22,7 +22,7 @@ code{font-weight:normal; font-style:normal; font-family:Georgia, "Times New Roma
 .fl_left{float:left;}
 .fl_right{float:right;}
 
-img{margin:10; padding:0; border:none; line-height:normal; vertical-align:middle;}
+img{margin:10; padding:0; border:ridge; border-color:blue; border-width:5px; line-height:normal; vertical-align:middle;}
 .imgholder, .imgl, .imgr{padding:4px; border:1px solid #ffffff; text-align:center;}
 .imgl{float:left; margin:0 15px 15px 0; clear:left;}
 .imgr{float:right; margin:0 0 15px 15px; clear:right;}
