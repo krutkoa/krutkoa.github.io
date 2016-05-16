@@ -10,7 +10,7 @@ html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than 
 
 body{margin:10; padding:10; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#ffffff; background-color:#2870bd; }
 
-.clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
+.clear:after{content:"."; display:block; height:10; clear:both; visibility:hidden; line-height:10;}
 .clear{display:block; clear:both;}
 html[xmlns] .clear{display:block;}
 * html .clear{height:1%;}
