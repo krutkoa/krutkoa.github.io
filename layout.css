@@ -22,10 +22,10 @@ code{font-weight:normal; font-style:normal; font-family:Georgia, "Times New Roma
 .fl_left{float:left;}
 .fl_right{float:right;}
 
-img{margin:10; padding:0; border:ridge; border-color:blue; border-width:5px; line-height:normal; vertical-align:middle;}
-.imgholder, .imgl, .imgr{padding:4px; border:1px solid #ffffff; text-align:center;}
+img{margin:0; padding:0; border:ridge; border-color:blue; border-width:5px; line-height:normal; vertical-align:middle;}
+.imgholder, .imgl, .imgr{padding:5px; border:1px solid #ffffff; text-align:center;}
 .imgl{float:left; margin:0 15px 15px 0; clear:left;}
-.imgr{float:right; margin:0 0 15px 15px; clear:right;}
+.imgr{float:right; margin:0 0 20px 20px; clear:right;}
 
 /*----------------------------------------------HTML 5 Overrides-------------------------------------*/
 
