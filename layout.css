@@ -85,7 +85,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #header #hgroup h1{font-size:36px;}
 #header #hgroup h2{font-size:13px;}
 
-#header form{display:block; width:290px; float:right; margin:0px 0; padding:0;}
+#header form{display:block; width:290px; float:right; margin:10px 0; padding:0;}
 #header form input{display:block; float:left; width:200px; margin:0; padding:5px; color:#000000; background-color:#ffffff; border:1px solid #ffb900;}
 #header form #sf_submit{display:block; float:right; width:70px; font-size:12px; font-weight:bold; text-transform:uppercase; color:#ffffff; background-color:#ffb900; border:none; cursor:pointer;}
 
